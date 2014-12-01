@@ -101,5 +101,5 @@ public class Joueur {
         return this.getCompagnies().size();
     }
     
-
+ceci est un test
 }
